@@ -7,6 +7,11 @@
 - Heavy use of fertilizers to maximize crop yield
 - High drainage water flux transports excess nitrogen to the Gulf of Mexico forming the hypoxic dead zone 
 
+# Iowa Food-Energy-Water (IFEW) challenges
+
+# Our proposed IFEW system model
+<img src="Images/IFEW_model3.png" width="400">
+
 ## Collaborators:
 Vishal Raul
 [Amy Kaleita, Department of Agricultural and Biosystems Engineering, Iowa State University](https://www.abe.iastate.edu/amy-kaleita/)  
