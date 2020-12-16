@@ -17,6 +17,14 @@ V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysi
 
 ## [Link to codes](https://github.com/ifews/IFEWs/tree/gh-pages/Codes) 
 
+
+## Grant
+This material is based upon work supported by the National ScienceFoundation under grant no.  1739551  
+<img src="Images/NSF_Logo.png" width="200">
+
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -42,9 +50,7 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
-## Grant
-This material is based upon work supported by the National ScienceFoundation under grant no.  1739551  
-<img src="Images/NSF_Logo.png" width="200">
+
 
 ### Jekyll Themes
 
