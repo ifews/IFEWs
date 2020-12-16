@@ -10,9 +10,9 @@
 ## Collaborators:
 
 ## Publications:
-V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysis of the Iowa Food-Water-Energy Nexus,” Accepted, Special issue of the Journal of Environmental Impact Letters, 2020. [Link to paper](https://github.com/raulvishal/IFEW/tree/master/Papers) 
+V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysis of the Iowa Food-Water-Energy Nexus,” Accepted, Special issue of the Journal of Environmental Impact Letters, 2020. [Link to paper](https://github.com/ifews/IFEWs/tree/gh-pages/Papers) 
 
-## [Link to codes](https://github.com/raulvishal/IFEW/tree/master/Codes) 
+## [Link to codes](https://github.com/ifews/IFEWs/tree/gh-pages/Codes) 
 
 ### Markdown
 
