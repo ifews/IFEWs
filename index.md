@@ -7,6 +7,9 @@
 - Heavy use of fertilizers to maximize crop yield
 - High drainage water flux transports excess nitrogen to the Gulf of Mexico forming the hypoxic dead zone 
 
+
+<img src="Images/IFEW_model3.png" width="200">
+
 ## Collaborators:
 Amy Kaleita
 Leifur Leifsson
