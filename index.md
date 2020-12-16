@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to Iowa food-water-energy (IFEW) 
 
-You can use the [editor on GitHub](https://github.com/ifews/ifews/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image of deadzone](dead_zone.png)
+
+- Abundant production of corn, around 60% goes to ethanol production
+- Heavy use of fertilizers to maximize crop yield
+- High drainage water flux transports excess nitrogen to the Gulf of Mexico forming the hypoxic dead zone 
 
 ### Markdown
 
