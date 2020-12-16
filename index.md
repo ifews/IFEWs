@@ -24,8 +24,8 @@
 [Eliot Winer, Virtual Reality Applications Center, Iowa State University](https://www.brain.vpresearch.iastate.edu/people/eliot-winer)  
 [Clark Wolf, Department of Philosophy and Religious Studies, Iowa State University](https://www.philrs.iastate.edu/directory/clark-wolf/)  
 Graduate student:  
-Vishal Raul
-Yen-Chen Liu
+Vishal Raul  
+Yen-Chen Liu  
 
 ## Publications:
 V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysis of the Iowa Food-Water-Energy Nexus,” Accepted, Special issue of the Journal of Environmental Impact Letters, 2020. [Link to paper](https://github.com/ifews/IFEWs/tree/gh-pages/Papers) 
