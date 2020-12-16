@@ -25,7 +25,7 @@
 [Eliot Winer, Virtual Reality Applications Center, Iowa State University](https://www.brain.vpresearch.iastate.edu/people/eliot-winer)  
 [Clark Wolf, Department of Philosophy and Religious Studies, Iowa State University](https://www.philrs.iastate.edu/directory/clark-wolf/)  
 
-**Graduate student**:  
+**Graduate students**:  
 Vishal Raul  
 Yen-Chen Liu  
 
