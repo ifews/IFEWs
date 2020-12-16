@@ -8,6 +8,10 @@
 - High drainage water flux transports excess nitrogen to the Gulf of Mexico forming the hypoxic dead zone 
 
 ## Collaborators:
+Amy Kaleita
+Leifur Leifsson
+Eliot Winer
+
 
 ## Publications:
 V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysis of the Iowa Food-Water-Energy Nexus,” Accepted, Special issue of the Journal of Environmental Impact Letters, 2020. [Link to paper](https://github.com/ifews/IFEWs/tree/gh-pages/Papers) 
@@ -41,7 +45,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ## Grant
 This material is based upon work supported by the National ScienceFoundation under grant no.  1739551
-![Image of deadzone](Images/NSF_Logo.png)
 
 ### Jekyll Themes
 
