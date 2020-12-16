@@ -25,6 +25,7 @@
 [Clark Wolf, Department of Philosophy and Religious Studies, Iowa State University](https://www.philrs.iastate.edu/directory/clark-wolf/)  
 Graduate student:  
 Vishal Raul
+Yen-Chen Liu
 
 ## Publications:
 V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysis of the Iowa Food-Water-Energy Nexus,” Accepted, Special issue of the Journal of Environmental Impact Letters, 2020. [Link to paper](https://github.com/ifews/IFEWs/tree/gh-pages/Papers) 
