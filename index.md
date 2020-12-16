@@ -7,6 +7,12 @@
 - Heavy use of fertilizers to maximize crop yield
 - High drainage water flux transports excess nitrogen to the Gulf of Mexico forming the hypoxic dead zone 
 
+
+## Publications:
+V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysis of the Iowa Food-Water-Energy Nexus,” Accepted, Special issue of the Journal of Environmental Impact Letters, 2020.[Link to paper](https://github.com/raulvishal/IFEW/tree/master/Papers) 
+
+## [Link to codes](https://github.com/raulvishal/IFEW/tree/master/Codes) 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
