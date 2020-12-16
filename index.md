@@ -8,6 +8,7 @@
 - High drainage water flux transports excess nitrogen to the Gulf of Mexico forming the hypoxic dead zone 
 
 ## Collaborators:
+Vishal Raul
 [Amy Kaleita, Department of Agricultural and Biosystems Engineering, Iowa State University](https://www.abe.iastate.edu/amy-kaleita/)  
 [Leifur Leifsson, Department of Aerospace Engineering, Iowa State University](https://www.aere.iastate.edu/leifur/)  
 [Eliot Winer, Virtual Reality Applications Center, Iowa State University](https://www.brain.vpresearch.iastate.edu/people/eliot-winer)  
