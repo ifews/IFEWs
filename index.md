@@ -23,7 +23,7 @@ V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysi
 
 ## Grant
 This material is based upon work supported by the National ScienceFoundation under grant no.  1739551  
-![Image of deadzone](Images/NSF_Logo.png =20x)
+<img src="Images/NSF_Logo.png" width="200">
 
 
 ### Markdown
