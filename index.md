@@ -20,10 +20,10 @@
 
 ## Collaborators:
 [Amy Kaleita, Department of Agricultural and Biosystems Engineering, Iowa State University](https://www.abe.iastate.edu/amy-kaleita/)  
-[Leifur Leifsson, Department of Aerospace Engineering, Iowa State University](https://www.aere.iastate.edu/leifur/)  
-[James Oliver, Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/directory/profile/oliver/)  
-[Eliot Winer, Department of Mechanical Engineering, Iowa State University](https://www.me.iastate.edu/faculty/profile/ewiner/)  
 [Clark Wolf, Department of Philosophy and Religious Studies, Iowa State University](https://www.philrs.iastate.edu/directory/clark-wolf/)  
+[Eliot Winer, Department of Mechanical Engineering, Iowa State University](https://www.me.iastate.edu/faculty/profile/ewiner/)  
+[James Oliver, Department of Industrial and Manufacturing Systems Engineering](https://www.imse.iastate.edu/directory/profile/oliver/)  
+[Leifur Leifsson, Department of Aerospace Engineering, Iowa State University](https://www.aere.iastate.edu/leifur/)  
 
 **Graduate students**:  
 Vishal Raul  
