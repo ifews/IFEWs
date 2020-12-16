@@ -8,9 +8,13 @@
 - High drainage water flux transports excess nitrogen to the Gulf of Mexico forming the hypoxic dead zone 
 
 # Iowa Food-Energy-Water (IFEW) challenges
+<img src="Images/IFEW_model3.png">
+
+- Complex geospatial and geopolitical relationship of Iowa farms, water tiers and energy production  
+- Diverse stakeholders influence the IFEW system  
 
 # Our proposed IFEW system model
-<img src="Images/IFEW_model3.png" width="400">
+<img src="Images/IFEW_model3.png">
 
 ## Collaborators:
 Vishal Raul
