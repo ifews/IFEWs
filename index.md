@@ -11,6 +11,7 @@
 <p align="center">
   <img src="Images/FEW_crisis_iowa.png" />
 </p>
+
 - Complex geospatial and geopolitical relationship of Iowa farms, water tiers and energy production  
 - Diverse stakeholders influence the IFEW system  
 
