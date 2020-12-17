@@ -26,8 +26,8 @@
 [Leifur Leifsson, Department of Aerospace Engineering, Iowa State University](https://www.aere.iastate.edu/leifur/)  
 
 **Graduate students**:  
-Vishal Raul, Department of Aerospace Engineering, Iowa State University  
-Yen-Chen Liu, Department of Aerospace Engineering, Iowa State University  
+Vishal Raul  
+Yen-Chen Liu  
 
 ## Publications:
 V. Raul, L. Leifsson, and A. Kaleita, “System Modeling and Sensitivity Analysis of the Iowa Food-Water-Energy Nexus,” Accepted, Special issue of the Journal of Environmental Impact Letters, 2020. [Link to paper](https://github.com/ifews/IFEWs/tree/gh-pages/Papers) 
